@@ -14,3 +14,7 @@ body {
     width: 200px;
     font-size: 23px;
 }
+canvas {
+    border: solid white 5px;
+    border-radius: 15px;
+}
